@@ -4,7 +4,6 @@ Estudiante de programación interesada en software, sistemas embebidos y deep te
 
 ## Actualmente
 - Enfocándome en C# y .NET.
-- Formandome en Tecnología Biónica.
 - Construyendo proyectos con React y Node.js.
 
 ## Intereses
