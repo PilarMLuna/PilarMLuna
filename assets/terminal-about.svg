@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace">
+  <rect x="1" y="1" width="858" height="478" rx="12" fill="#000000" stroke="#262626" stroke-width="1"/>
+  <line x1="1" y1="40" x2="859" y2="40" stroke="#262626" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="430" y="25" text-anchor="middle" fill="#8b8b8b" font-size="13">pilar@cloud-lab ~ — bash</text>
+
+  <text x="24" y="70" fill="#8B5CF6" font-size="14">┌──(pilar@cloud-lab)-[~/perfil]</text>
+  <text x="24" y="94" fill="#e5e5e5" font-size="14">└─$ <tspan fill="#8B5CF6">cat about.txt</tspan></text>
+
+  <line x1="24" y1="106" x2="836" y2="106" stroke="#262626" stroke-width="1"/>
+
+  <text x="24" y="132" font-size="13"><tspan fill="#8B5CF6">USUARIO</tspan><tspan x="150" fill="#e5e5e5">Pilar Luna</tspan></text>
+  <text x="24" y="156" font-size="13"><tspan fill="#8B5CF6">ROL</tspan><tspan x="150" fill="#e5e5e5">Full Stack Developer Trainee</tspan></text>
+  <text x="24" y="180" font-size="13"><tspan fill="#8B5CF6">ENFOQUE</tspan><tspan x="150" fill="#e5e5e5">Backend · Cloud · DevOps · Infraestructura Científica</tspan></text>
+  <text x="24" y="204" font-size="13"><tspan fill="#8B5CF6">ESTADO</tspan><tspan x="150" fill="#e5e5e5">⚡ Construyendo, aprendiendo y mejorando</tspan></text>
+  <text x="24" y="228" font-size="13"><tspan fill="#8B5CF6">MISIÓN</tspan><tspan x="150" fill="#e5e5e5">Crear software confiable, útil y reproducible.</tspan></text>
+
+  <text x="24" y="262" fill="#e5e5e5" font-size="14">└─$ <tspan fill="#8B5CF6">whoami --verbose</tspan></text>
+  <text x="24" y="286" fill="#a3a3a3" font-size="13">Enfocada en construir bases sólidas en backend</text>
+  <text x="24" y="306" fill="#a3a3a3" font-size="13">y crecer hacia la nube y el DevOps. Mi experiencia</text>
+  <text x="24" y="326" fill="#a3a3a3" font-size="13">abarca TypeScript, Node.js, PostgreSQL, Docker y</text>
+  <text x="24" y="346" fill="#a3a3a3" font-size="13">flujos de trabajo colaborativos con Git.</text>
+  <text x="24" y="366" fill="#a3a3a3" font-size="13">Cada proyecto es una oportunidad para aprender</text>
+  <text x="24" y="386" fill="#a3a3a3" font-size="13">algo nuevo y construir mejor infraestructura.</text>
+
+  <text x="24" y="416" fill="#e5e5e5" font-size="14">└─$ <tspan fill="#8B5CF6">ls ./intereses/</tspan></text>
+
+  <g font-size="12" fill="#c4b5fd">
+    <rect x="24" y="438" width="66" height="28" rx="6" fill="#0a0a0a" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="57" y="456" text-anchor="middle">Backend</text>
+
+    <rect x="98" y="438" width="52" height="28" rx="6" fill="#0a0a0a" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="124" y="456" text-anchor="middle">Cloud</text>
+
+    <rect x="158" y="438" width="59" height="28" rx="6" fill="#0a0a0a" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="187" y="456" text-anchor="middle">DevOps</text>
+
+    <rect x="225" y="438" width="210" height="28" rx="6" fill="#0a0a0a" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="330" y="456" text-anchor="middle">Infraestructura Científica</text>
+
+    <rect x="443" y="438" width="117" height="28" rx="6" fill="#0a0a0a" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="501" y="456" text-anchor="middle">Observabilidad</text>
+  </g>
+</svg>
