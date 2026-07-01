@@ -80,22 +80,30 @@ Me interesan especialmente el backend, Cloud/DevOps, Linux y los sistemas técni
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%238B5CF6" width="22" height="22" style="vertical-align:middle"/> Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PilarMLuna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PilarMLuna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PilarMLuna&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PilarMLuna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## <img src="https://api.iconify.design/tabler:mail.svg?color=%238B5CF6" width="22" height="22" style="vertical-align:middle"/> Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pilarmluna/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pilarluna121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/pilarmluna/">
+        <img src="https://api.iconify.design/tabler:brand-linkedin.svg?color=%238B5CF6" width="32" height="32"/>
+        <br/><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:pilarluna084@gmail.com">
+        <img src="https://api.iconify.design/tabler:mail.svg?color=%238B5CF6" width="32" height="32"/>
+        <br/><sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
