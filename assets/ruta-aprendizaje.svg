@@ -1,0 +1,47 @@
+<svg viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace">
+  <rect x="1" y="1" width="858" height="338" rx="12" fill="#000000" stroke="#262626" stroke-width="1"/>
+
+  <line x1="60" y1="45" x2="60" y2="295" stroke="#262626" stroke-width="2"/>
+  <line x1="60" y1="45" x2="60" y2="215" stroke="#8B5CF6" stroke-width="2"/>
+
+  <g>
+    <circle cx="60" cy="45" r="10" fill="#8B5CF6"/>
+    <path d="M55 45 L58.5 48.5 L65.5 41" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="90" y="41" fill="#e5e5e5" font-size="14">TypeScript + Node.js</text>
+    <text x="90" y="58" fill="#7c7c7c" font-size="11">Completado</text>
+  </g>
+
+  <g>
+    <circle cx="60" cy="95" r="10" fill="#8B5CF6"/>
+    <path d="M55 95 L58.5 98.5 L65.5 91" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="90" y="91" fill="#e5e5e5" font-size="14">PostgreSQL + Prisma</text>
+    <text x="90" y="108" fill="#7c7c7c" font-size="11">Completado</text>
+  </g>
+
+  <g>
+    <circle cx="60" cy="145" r="10" fill="#8B5CF6"/>
+    <path d="M55 145 L58.5 148.5 L65.5 141" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="90" y="141" fill="#e5e5e5" font-size="14">Docker + CI/CD</text>
+    <text x="90" y="158" fill="#7c7c7c" font-size="11">Completado</text>
+  </g>
+
+  <g>
+    <circle cx="60" cy="195" r="10" fill="#8B5CF6"/>
+    <circle cx="60" cy="195" r="10" fill="none" stroke="#c4b5fd" stroke-width="1.5"/>
+    <circle cx="60" cy="195" r="4" fill="#000000"/>
+    <text x="90" y="191" fill="#e5e5e5" font-size="14">Linux + Bash</text>
+    <text x="90" y="208" fill="#c4b5fd" font-size="11">En progreso</text>
+  </g>
+
+  <g>
+    <circle cx="60" cy="245" r="10" fill="#0a0a0a" stroke="#404040" stroke-width="1.5"/>
+    <text x="90" y="241" fill="#a3a3a3" font-size="14">Fundamentos de Cloud</text>
+    <text x="90" y="258" fill="#606060" font-size="11">Próximamente</text>
+  </g>
+
+  <g>
+    <circle cx="60" cy="295" r="10" fill="#0a0a0a" stroke="#404040" stroke-width="1.5"/>
+    <text x="90" y="291" fill="#a3a3a3" font-size="14">Observabilidad + infraestructura</text>
+    <text x="90" y="308" fill="#606060" font-size="11">Próximamente</text>
+  </g>
+</svg>
